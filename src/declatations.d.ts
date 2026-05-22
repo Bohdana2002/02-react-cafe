@@ -1,0 +1,1 @@
+declare module "modern-normalize" //оголосили вручну модуль, бо інакше TS би сварився
